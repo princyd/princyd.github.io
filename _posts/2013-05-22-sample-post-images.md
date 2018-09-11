@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Post with Images"
+title: "Post with Images Sample"
 date: 2013-05-22
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
