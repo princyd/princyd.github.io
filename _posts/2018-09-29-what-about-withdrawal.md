@@ -2,7 +2,7 @@
 layout: post
 title:  "What About Withdrawal?"
 date:   2018-09-29
-excerpt: "Why are the young girls in Louisa Hall's novel, *Speak*, freezing?"
+excerpt: "Why are the young girls in Louisa Hall's novel, Speak, freezing?"
 tag:
 - Speak 
 - Louisa Hall
@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-#What About Withdrawal?
+# What About Withdrawal?
 
 *Speak*, by Louisa Hall explores multiple stories that all connect through overarching themes. In one particular story, young girls are beginning to freeze, or rather “paralyze”, after their babybots are taken away from them. These youngs girls practically grew up right alongside their babybots and found them to be the key to their comfort. For example, one girl named Gaby discussed how she brought her babybot to school with her and would show her around. She stated that she never really interacted with her classmates because she had her babybot (Hall 94). The details regarding the relationship between babybots and these young girls made me ponder the idea that these babybots possibly signify something deeper - something that connects to present-day life. Are these babybots synonymous to our smartphones?
 
