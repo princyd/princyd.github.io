@@ -2,7 +2,7 @@
 layout: post
 title:  "To Plug or Not to Plug"
 date:   2018-10-06
-excerpt: "I didn't use my laptop, phone, tablet, gaming systems, television, or radio for twenty-fours hours. How did it go? Well here's my reflection."
+excerpt: "I didn't use my laptop, phone, tablet, gaming systems, television, or radio for twenty-fours hours. How did it go?"
 tag:
 - Technology
 - Reflection
