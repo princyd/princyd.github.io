@@ -16,7 +16,6 @@ comments: true
 
 In Ted Chiang’s, *The Truth of Fact, the Truth of Feeling*, the conflict between choosing to forgive and forget or remember is present. When Chiang has an argument with his daughter, the future him wonders if it would be better that he forget the argument as a whole. He notions that if they forgot the argument even took place, their relationship could be stronger. On the other hand, he notions that the fact that they remember the argument and were able to make amends afterward made their relationship even stronger. This caused me to think about which circumstance is better. 
 
->(Chiang to his daughter)
 >“You’re the reason [your mother] left! You drove her away! You can leave too, for all I care. 
 >I sure as hell would be better off without you” (Chiang 10).
 
