@@ -38,4 +38,4 @@ After my planning was officially over, I created a sample staff. This staff show
 
 
 AND FINALLY, THE MOMENT YOU'VE BEEN WAITING FOR...HERE IS THE COMPOSITION: 
-! [relief](Temporary Relief-page-001.jpg) 
+! [relief](Temporary Relief.pdf) 
