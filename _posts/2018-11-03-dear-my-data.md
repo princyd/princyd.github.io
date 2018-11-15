@@ -39,4 +39,6 @@ After my planning was officially over, I created a [sample staff to act as the k
 
 AND FINALLY, THE MOMENT YOU'VE BEEN WAITING FOR...HERE IS THE [COMPOSITION](https://drive.google.com/file/d/1hlwmfMOICkU3W-8PgRJ8a6P-FhlRQss9/view?usp=sharing)! If you'd prefer to take a listen, click [here](https://drive.google.com/file/d/1kcGKIckk8mdagl-QljhMgyV--9GTH6wX/view?usp=sharing).
 
+![score for the composition](princyd.github.io/_posts/Temporary Relief-page-001.jpg)
+
 *Please note that the notes played should instead have a short, sharply detached sound (to mimic the popping sound) as opposed to the long notes heard in the audio clip*
