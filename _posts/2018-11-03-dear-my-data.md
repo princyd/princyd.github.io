@@ -34,10 +34,11 @@ Next was time to decide which type of notes each body part would represent. I ul
 + Fingers - sixteenth notes
 + Toes - half notes
 
-After my planning was officially over, I created a [sample staff to act as the key](https://drive.google.com/file/d/1InAIr-EG90noLZE31z7sWMlVH0iBswvy/view?usp=sharing). This staff showed where each note would be (the pitch), what it would look like (type of note), and which body part it represented. 
+After my planning was officially over, I created a [sample staff to act as the key](https://drive.google.com/file/d/1InAIr-EG90noLZE31z7sWMlVH0iBswvy/view?usp=sharing)(also shown below). This staff showed where each note would be (the pitch), what it would look like (type of note), and which body part it represented. 
 
+![key](https://raw.githubusercontent.com/princyd/princyd.github.io/master/_posts/KEY.png)
 
-AND FINALLY, THE MOMENT YOU'VE BEEN WAITING FOR...HERE IS THE [COMPOSITION](https://drive.google.com/file/d/1hlwmfMOICkU3W-8PgRJ8a6P-FhlRQss9/view?usp=sharing)! If you'd prefer to take a listen, click [here](https://drive.google.com/file/d/1kcGKIckk8mdagl-QljhMgyV--9GTH6wX/view?usp=sharing).
+AND FINALLY, THE MOMENT YOU'VE BEEN WAITING FOR...HERE IS THE [COMPOSITION](https://drive.google.com/file/d/1hlwmfMOICkU3W-8PgRJ8a6P-FhlRQss9/view?usp=sharing) (also shown below)! If you'd prefer to take a listen, click [here](https://drive.google.com/file/d/1kcGKIckk8mdagl-QljhMgyV--9GTH6wX/view?usp=sharing).
 
 ![score for the composition](https://raw.githubusercontent.com/princyd/princyd.github.io/master/_posts/Temporary%20Relief-page-001.jpg)
 
