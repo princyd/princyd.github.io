@@ -34,7 +34,7 @@ Next was time to decide which type of notes each body part would represent. I ul
 + Fingers - sixteenth notes
 + Toes - half notes
 
-After my planning was officially over, I created a [sample staff to act as the key](https://drive.google.com/file/d/1InAIr-EG90noLZE31z7sWMlVH0iBswvy/view?usp=sharing)(also shown below). This staff showed where each note would be (the pitch), what it would look like (type of note), and which body part it represented. 
+After my planning was officially over, I created a [sample staff to act as the key](https://drive.google.com/file/d/1InAIr-EG90noLZE31z7sWMlVH0iBswvy/view?usp=sharing) (also shown below). This staff showed where each note would be (the pitch), what it would look like (type of note), and which body part it represented. 
 
 ![key](https://raw.githubusercontent.com/princyd/princyd.github.io/master/_posts/KEY.png)
 
