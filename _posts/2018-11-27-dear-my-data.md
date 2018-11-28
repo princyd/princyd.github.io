@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Temporary Relief - Dear My Data"
-date:   2018-11-03
+date:   2018-11-27
 excerpt: "A musical composition of cracks and pops."
 tag:
 - neck
@@ -43,3 +43,9 @@ AND FINALLY, THE MOMENT YOU'VE BEEN WAITING FOR...HERE IS THE [COMPOSITION](http
 ![score for the composition](https://raw.githubusercontent.com/princyd/princyd.github.io/master/_posts/Temporary%20Relief-page-001.jpg)
 
 *Please note that the notes played should instead have a short, sharply detached sound (to mimic the popping sound) as opposed to the long notes heard in the audio clip*
+
+So what did I learn? For one, I realized that I crack my knuckles way more times than I ever would've guessed. When looking at each specific day's data, I did notice that I cracked the most on Monday and Thursday. From this, I noticed that I cracked more when I got less sleep the night before (after comparing this data to my sleep data collected from my phone). Futhermore, my busiest and most stressful day of class had the least amount of cracks. This signals to me that my cracks may not result from stress. 
+
+When deciding to represent my data in this way, I knew I wanted the audio to replicate how it may sound if we were able to pop our knuckles and other body parts back-to-back without stopping. In the moment, it seemed as if I didn't crack my bones as much as I did simply because it was spread across 24 hours. However, in this composition, it spans only 55 seconds. I believe that while this data being portrayed in a spreadsheet still would've proven to be a shock, it wouldn't have caused people to image someone cracking parts of their body, without stopping, for almost a minute straight. In addition, I feel that my modes of representation allow people that may struggle with reading data/spreadsheets to listen instead. 
+
+As I am looking for a chiropractor (for back pain) in the Boston area, I am planning to show him or her this data. I feel that while this data was interesting to me to collect and visualize, it'll be helpful for my health as well. Hopefully, there are no extremely detrimental effects of around 185 cracks a day! Ultimately, this data not only allowed me to recognize my habits but will help me verbalize and clearly show them to medical professionals when seeking advice.
