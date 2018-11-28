@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Compulsory Coding - Unessay"
-date:   2018-11-03
+date:   2018-11-27
 excerpt: "Should coding be a compulsory course in the future United States education system?"
 tag:
 - coding
@@ -77,6 +77,13 @@ comments: true
 
 >*Looking back at your educational history, if you took a compulsory coding course, do you believe you would be able to make sense out of what is above? Do you believe that you would have forgotten this information already? Are you only getting a piece of the puzzle that would be obvious to anyone able to read the English language? If still familiar with the content, would you try to refresh your memory through a crash course or simply put this through different translators? I believe that it is very important to note that not everyone is intrigued by coding languages. I expect many people that looked at this to simply close it right away after realizing that they couldn’t care less what this actually meant. However, there are others that are fond of coding languages. As argued coherently, and in one language, in my [original essay](https://docs.google.com/document/d/1Omn1ZMmpQRmPpp9kQ6jXsKhF9qmySJ18w66VRKKDw7w/edit?usp=sharing): I believe that coding should not be imposed on everyone in the future United States education system.*
 
+
+
+In doing this translation, I learned that many coding languages only subtly affect formatting. In addition, I learned that binary translations take up *a lot* of space. During my translation, my opinion on the topic switched for a few days. In that time frame, I felt that it would be interesting, at least to me, to figure out how binary coding languages worked. In fact, I even read an article explaining how to translate the letters into number and vice versa! I thought that perhaps a mandatory course wouldn't have been that bad and that I could've learned a lot. However, a days later, my opinion shifted back. Just after days of not using the binary language, I forgot how it worked. In addition, I knew that if I had learned this in high school, I likely would not have remembered it today because I likely wouldn't have ever used it again. This then caused me to think about which class I would've had cut from my schedule in order to make it fit. Basically, I enjoyed all of my classes and wouldn't have been the happiest if one of them had been coding instead. 
+
+Based on my experience in transposing this essay into different languages, I feel that the translation allows readers a glimpse into what they could expect when digging into coding languages. I would hope that readers would recognize how the languages differ from one another and how some look to be similar. In addition, I hope that the open-ended questions listed above would prompt readers to imagine a life in which they took a compulsory coding course in school and ponder if it would've been beneficial in this situation. I know that some readers could have been very interested in these languages and would want to learn more. If so, I am glad that this unessay led to exposure to languages that exist and the possibilities that coding reveals. In addition, I know that this unessay has drawbacks as it simply uses the languages in a way that doesn't create a functioning program or game, which might have been more intriguing. Nonetheless, I hope that this exploration of languages and the possibility of a compulsory coding course in the future would prompt readers to read into debates on this topic.  
+
+In my [original essay](https://docs.google.com/document/d/1Omn1ZMmpQRmPpp9kQ6jXsKhF9qmySJ18w66VRKKDw7w/edit?usp=sharing), I discuss research I came about and my interpretation of it - all of which is linked on the resources page. I recognize that there are many benefits to learning how to code but I also highlight how forcing students to learn may not be as impactful as anticipated.
 
 
 
