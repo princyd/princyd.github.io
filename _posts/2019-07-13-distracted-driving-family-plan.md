@@ -46,6 +46,6 @@ comments: true
 
 “Distracted Driving Statistics 2019: The Zebra.” The Zebra, 9 Apr. 2019, www.thezebra.com/distracted-driving-statistics/.
 
-“Policy Statement and Compiled FAQs on Distracted Driving .” National Highway Traffic Safety Administration, NHTSA, www.nhtsa.gov.edgesuite-staging.net/Driving+Safety/Distracted+Driving/Policy+Statement+and+Compiled+FAQs+on+Distracted+Driving.
+“Policy Statement and Compiled FAQs on Distracted Driving .” National Highway Traffic Safety Administration,NHTSA,www.nhtsa.gov.edgesuite-staging.net/Driving+Safety/Distracted+Driving/Policy+Statement+and+Compiled+FAQs+on+Distracted+Driving.
 
-Young, Richard. “Cognitive Distraction While Driving: A Critical Review of Definitions and Prevalence in Crashes.” Research Gate, ResearchGate 2019, May 2012, www.researchgate.net/publication/259598613_Cognitive_Distraction_While_Driving_A_Critical_Review_of_Definitions_and_Prevalence_in_Crashes.
+Young, Richard. “Cognitive Distraction While Driving: A Critical Review of Definitions and Prevalence in Crashes.” Research Gate, ResearchGate 2019, May 2012,www.researchgate.net/publication/259598613_Cognitive_Distraction_While_Driving_A_Critical_Review_of_Definitions_and_Prevalence_in_Crashes.
